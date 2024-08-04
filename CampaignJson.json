@@ -1,0 +1,19 @@
+{
+  "campaigns": [
+    {
+      "campaignName": "Kitkat",
+      "campaignDescription": "Have a break , Have a kitkat",
+      "campaignImage": "iVBORw0KGg...=="
+    },
+    {
+      "campaignName": "My Campaign 2",
+      "campaignDescription": "This is a description of my campaign 2",
+      "campaignImage": "iVBORw0KGg...==" 
+    },
+    {
+      "campaignName": "My Campaign 3",
+      "campaignDescription": "This is a description of my campaign 3",
+      "campaignImage": "iVBORw0KGg...==" 
+    }
+  ]
+}
