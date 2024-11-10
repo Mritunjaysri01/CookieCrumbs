@@ -4,34 +4,36 @@
       "campaignName": "Kitkat",
       "campaignDescription": "Have a break , Have a kitkat",
       "campaignImage": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Campaigns/KIT-KAT-30RS-removebg-preview.png",
-      "campaignsURL":"https://aj2646.bid/ads-api-native?key=7ebe21e5a933d61f7e2a740620085d19&native_bs=1",
-      "ModelURL":"https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Kitkat.gltf"
-    
+      "campaignsURL": "https://aj2646.bid/ads-api-native?key=7ebe21e5a933d61f7e2a740620085d19&native_bs=1",
+      "ModelURL": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Kitkat.gltf"
     },
     {
       "campaignName": "Hero Xtreme 125 R",
       "campaignDescription": "CHALLENGE THE EXTREME",
-      "campaignImage": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Campaigns/Xtreme-125R-Full-Web-2x.png" ,
-      "campaignsURL":"https://aj2646.bid/ads-api-native?key=cd0387bfc691e57e2725309d373885a9&native_bs=1",
-      "ModelURL":"https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Hero%20Xtreme.gltf"
-
+      "campaignImage": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Campaigns/Xtreme-125R-Full-Web-2x.png",
+      "campaignsURL": "https://aj2646.bid/ads-api-native?key=cd0387bfc691e57e2725309d373885a9&native_bs=1",
+      "ModelURL": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Hero%20Xtreme.gltf"
     },
     {
       "campaignName": "Myntra",
       "campaignDescription": "Explore the Sneaker world",
-      "campaignImage": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Campaigns/sneaker.png", 
-      "campaignsURL":"https://aj2646.bid/ads-api-native?key=3aaec945943b89c3bb72d07c12eb7221&native_bs=1",
-      "ModelURL":"https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Shoe.gltf"
-
+      "campaignImage": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Campaigns/sneaker.png",
+      "campaignsURL": "https://aj2646.bid/ads-api-native?key=3aaec945943b89c3bb72d07c12eb7221&native_bs=1",
+      "ModelURL": "https://raw.githubusercontent.com/Mritunjaysri01/CookieCrumbs/main/Shoe.gltf"
     },
-{
+    {
       "campaignName": "CocaCola",
       "campaignDescription": "Taste the Feeling",
-      "campaignImage": "https://github.com/Mritunjaysri01/CookieCrumbs/blob/main/CocaCola.png?raw=true", 
-      "campaignsURL":"https://aj2646.bid/ads-api-native?key=929035687215be2f8f5851840e47d8b8&native_bs=1",
-      "ModelURL":"https://github.com/Mritunjaysri01/CookieCrumbs/raw/refs/heads/main/Cola.glb"
-
+      "campaignImage": "https://github.com/Mritunjaysri01/CookieCrumbs/blob/main/CocaCola.png?raw=true",
+      "campaignsURL": "https://aj2646.bid/ads-api-native?key=929035687215be2f8f5851840e47d8b8&native_bs=1",
+      "ModelURL": "https://github.com/Mritunjaysri01/CookieCrumbs/raw/refs/heads/main/Cola.glb"
+    },
+    {
+      "campaignName": "BookMyShow",
+      "campaignDescription": "Music Of Sphere",
+      "campaignImage": "https://github.com/Mritunjaysri01/CookieCrumbs/blob/main/Campaigns/ColdPlayXBms_Finshots-removebg-preview-removebg-preview.png?raw=true",
+      "campaignsURL": "https://aj2646.bid/ads-api-native?key=929035687215be2f8f5851840e47d8b8&native_bs=1",
+      "ModelURL": "https://github.com/Mritunjaysri01/CookieCrumbs/raw/refs/heads/main/Cola.glb"
     }
-
   ]
 }
