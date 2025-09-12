@@ -1,44 +1,41 @@
-<VAST version=\"4.0\"
-    xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"
-    xmlns=\"http://www.iab.com/VAST\">
-    <Ad id=\"ee_V8fQu5\">
+<VAST version="4.0" xmlns="http://www.iab.com/VAST">
+    <Ad id="ee_V8fQu5">
         <InLine>
-            <AdSystem version=\"1\">DigitalEast GmbH</AdSystem>
+            <AdSystem version="1">DigitalEast GmbH</AdSystem>
             <Error><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&isTest=false&cacheBuster=1757577283257&label=noplay&errorCode=[ERRORCODE]]]></Error>
-            <Impression id=\"DE-Impression-ID\"><![CDATA[https://sgpixel.digitaleast.mobi/win?accountId=688df0aac0e01151bba13f32&auctionType=1&campaignId=6891b6e0d8540321557ddf6d&checksum=6644edfefab355f58d86caecacce69bb&creativeId=6891b69dd8540321557ddf6c&exchangeId=38400000-8cf0-11bd-b23e-10b96e40000d&exchangeName=ventes&ioId=68906cc8c0e01151bba13f3b&reqId=ee_V8fQu5&bidWin=${AUCTION_PRICE}]]></Impression>
+            <Impression id="DE-Impression-ID"><![CDATA[https://sgpixel.digitaleast.mobi/win?accountId=688df0aac0e01151bba13f32&auctionType=1&campaignId=6891b6e0d8540321557ddf6d&checksum=6644edfefab355f58d86caecacce69bb&creativeId=6891b69dd8540321557ddf6c&exchangeId=38400000-8cf0-11bd-b23e-10b96e40000d&exchangeName=ventes&ioId=68906cc8c0e01151bba13f3b&reqId=ee_V8fQu5&bidWin=${AUCTION_PRICE}]]></Impression>
             <AdServingId>ee_V8fQu5</AdServingId>
-            <AdTitle></AdTitle>
-            <AdVerifications></AdVerifications>
-            <Advertiser></Advertiser>
+            <AdTitle>Sample Video Ad</AdTitle>
+            <Advertiser>DigitalEast</Advertiser>
             <Creatives>
-                <Creative id=\"ee_V8fQu5\" sequence=\"1\" adId=\"6891b69dd8540321557ddf6c\">
+                <Creative id="ee_V8fQu5" sequence="1" adId="6891b69dd8540321557ddf6c">
+                    <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
                     <Linear>
                         <TrackingEvents>
-                            <Tracking event=\"loaded\"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=loaded]]></Tracking>
-                            <Tracking event=\"start\"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=start]]></Tracking>
-                            <Tracking event=\"firstQuartile\"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=firstQuartile]]></Tracking>
-                            <Tracking event=\"midpoint\"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=midpoint]]></Tracking>
-                            <Tracking event=\"thirdQuartile\"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=thirdQuartile]]></Tracking>
-                            <Tracking event=\"complete\"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=complete]]></Tracking>
+                            <Tracking event="loaded"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=loaded]]></Tracking>
+                            <Tracking event="start"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=start]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=firstQuartile]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=midpoint]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=thirdQuartile]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://sgpixel.digitaleast.mobi/tracker/v1/video.gif?reqId=ee_V8fQu5&campaignId=6891b6e0d8540321557ddf6d&creativeId=6891b69dd8540321557ddf6c&exchangeName=ventes&cacheBuster=1757577283257&isTest=false&label=complete]]></Tracking>
                         </TrackingEvents>
                         <Duration>00:00:06</Duration>
                         <MediaFiles>
-                            <MediaFile id=\"1\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"5400\" width=\"1280\" height=\"720\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic1080p.mp4]]></MediaFile>
-                            <MediaFile id=\"2\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"2400\" width=\"1280\" height=\"720\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic720p.mp4]]></MediaFile>
-                            <MediaFile id=\"3\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"1200\" width=\"854\" height=\"480\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic480p-16-9.mp4]]></MediaFile>
-                            <MediaFile id=\"4\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"900\" width=\"640\" height=\"360\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic480p-4-3.mp4]]></MediaFile>
-                            <MediaFile id=\"5\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"720\" width=\"640\" height=\"360\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic360p-16-9.mp4]]></MediaFile>
-                            <MediaFile id=\"6\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"600\" width=\"480\" height=\"270\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic360p-4-3.mp4]]></MediaFile>
-                            <MediaFile id=\"7\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"300\" width=\"320\" height=\"180\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic320-240.mp4]]></MediaFile>
-                            <MediaFile id=\"8\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"5000\" width=\"1280\" height=\"720\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/GenericIphone4s.mp4]]></MediaFile>
-                            <MediaFile id=\"9\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"2200\" width=\"1280\" height=\"720\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/GenericWeb.mp4]]></MediaFile>
-                            <MediaFile id=\"10\" delivery=\"progressive\" type=\"video/mp4\" bitrate=\"10000\" width=\"1920\" height=\"1080\" scalable=\"1\" maintainAspectRatio=\"1\" codec=\"H.264\"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic1080-I-60.mp4]]></MediaFile>
+                            <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="5400" width="1280" height="720" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic1080p.mp4]]></MediaFile>
+                            <MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="2400" width="1280" height="720" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic720p.mp4]]></MediaFile>
+                            <MediaFile id="3" delivery="progressive" type="video/mp4" bitrate="1200" width="854" height="480" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic480p-16-9.mp4]]></MediaFile>
+                            <MediaFile id="4" delivery="progressive" type="video/mp4" bitrate="900" width="640" height="360" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic480p-4-3.mp4]]></MediaFile>
+                            <MediaFile id="5" delivery="progressive" type="video/mp4" bitrate="720" width="640" height="360" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic360p-16-9.mp4]]></MediaFile>
+                            <MediaFile id="6" delivery="progressive" type="video/mp4" bitrate="600" width="480" height="270" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic360p-4-3.mp4]]></MediaFile>
+                            <MediaFile id="7" delivery="progressive" type="video/mp4" bitrate="300" width="320" height="180" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic320-240.mp4]]></MediaFile>
+                            <MediaFile id="8" delivery="progressive" type="video/mp4" bitrate="5000" width="1280" height="720" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/GenericIphone4s.mp4]]></MediaFile>
+                            <MediaFile id="9" delivery="progressive" type="video/mp4" bitrate="2200" width="1280" height="720" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/GenericWeb.mp4]]></MediaFile>
+                            <MediaFile id="10" delivery="progressive" type="video/mp4" bitrate="10000" width="1920" height="1080" scalable="1" maintainAspectRatio="1" codec="H.264"><![CDATA[https://stackcdn.digitaleast.mobi/creatives/688df0aac0e01151bba13f32/688df0aac0e01151bba13f33/6891b69dd8540321557ddf6c/Generic1080-I-60.mp4]]></MediaFile>
                         </MediaFiles>
                         <VideoClicks>
-                            <ClickThrough id=\"ee_V8fQu5\"><![CDATA[https://sgpixel.digitaleast.mobi/click?campaignId=6891b6e0d8540321557ddf6d&checksum=069e3c9a9a75d40bff4372a559f189fe&exchangeId=38400000-8cf0-11bd-b23e-10b96e40000d&exchangeName=ventes&lpUrl=https%3A%2F%2Fwww.natgeotv.com%2Fuk&reqId=ee_V8fQu5]]></ClickThrough>
+                            <ClickThrough id="ee_V8fQu5"><![CDATA[https://sgpixel.digitaleast.mobi/click?campaignId=6891b6e0d8540321557ddf6d&checksum=069e3c9a9a75d40bff4372a559f189fe&exchangeId=38400000-8cf0-11bd-b23e-10b96e40000d&exchangeName=ventes&lpUrl=https%3A%2F%2Fwww.natgeotv.com%2Fuk&reqId=ee_V8fQu5]]></ClickThrough>
                         </VideoClicks>
                     </Linear>
-                    <UniversalAdId idRegistry=\"unknown\">unknown</UniversalAdId>
                 </Creative>
             </Creatives>
         </InLine>
